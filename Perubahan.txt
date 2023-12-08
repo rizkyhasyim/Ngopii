@@ -1,0 +1,2 @@
+1. "Customer" digantikan dengan "User"
+2. "id_customer", "nama_customer", dll digantikan dengan Nomor HP, Name dan Password
